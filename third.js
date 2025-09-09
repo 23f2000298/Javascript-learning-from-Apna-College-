@@ -127,10 +127,10 @@
 // let userName = `@${Name}123`;
 // console.log("Your User Name is",userName)
 
-let Name = prompt("Enter Your Full Name");
-let name = Name.replace(/\s/g,"");
-let len = name.length;
-console.log("@"+ name +len)
+// let Name = prompt("Enter Your Full Name");
+// let name = Name.replace(/\s/g,"");
+// let len = name.length;
+// console.log("@"+ name +len)
 
 // /\s/g
 // /.../ → this is a regular expression (regex).
