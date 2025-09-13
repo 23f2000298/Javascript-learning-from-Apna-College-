@@ -129,9 +129,9 @@ let nums = [3,4,3,2,1,3]
 // });
 // console.log(output);
 
-let arr = [1,2,3,4]
-const output = arr.reduce((pre,curr) => {
+// let arr = [1,2,3,4]
+// const output = arr.reduce((pre,curr) => {
 
-    return pre>curr?rrev :curr;
-});
-console.log(output);
+//     return pre>curr?rrev :curr;
+// });
+// console.log(output);
